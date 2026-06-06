@@ -1,0 +1,116 @@
+retailer_id,name,location,contact
+1,Reliance Smart,Delhi,9000000001
+2,DMart Ready,Delhi,9000000002
+3,More Supermarket,Delhi,9000000003
+4,Spencers Retail,Delhi,9000000004
+5,Vishal Mega Mart,Delhi,9000000005
+6,Modern Bazaar,Delhi,9000000006
+7,Le Marche,Delhi,9000000007
+8,Needs Supermarket,Delhi,9000000008
+9,Sabka Bazaar,Delhi,9000000009
+10,Apna Bazaar,Delhi,9000000010
+11,Reliance Smart,Gurgaon,9000000011
+12,Easyday Club,Gurgaon,9000000012
+13,Apna Bazaar,Gurgaon,9000000013
+14,FreshCo Retail,Gurgaon,9000000014
+15,Needs Supermarket,Faridabad,9000000015
+16,Daily Needs Store,Panipat,9000000016
+17,Reliance Fresh,Rohtak,9000000017
+18,Vishal Mega Mart,Ambala,9000000018
+19,Easyday Club,Sonipat,9000000019
+20,More Supermarket,Karnal,9000000020
+21,Reliance Smart,Ludhiana,9000000021
+22,Easyday Club,Amritsar,9000000022
+23,6Ten Store,Chandigarh,9000000023
+24,Needs Supermarket,Patiala,9000000024
+25,More Supermarket,Jalandhar,9000000025
+26,Reliance Fresh,Bathinda,9000000026
+27,Daily Needs Store,Mohali,9000000027
+28,Easyday Club,Hoshiarpur,9000000028
+29,Vishal Mega Mart,Moga,9000000029
+30,Reliance Smart,Pathankot,9000000030
+31,Reliance Smart,Jaipur,9000000031
+32,V-Mart,Jaipur,9000000032
+33,DMart Ready,Jaipur,9000000033
+34,Apni Mandi,Jaipur,9000000034
+35,Grocery World,Jaipur,9000000035
+36,Reliance Fresh,Jodhpur,9000000036
+37,Needs Supermarket,Udaipur,9000000037
+38,Easyday Club,Ajmer,9000000038
+39,More Supermarket,Kota,9000000039
+40,Daily Needs Store,Bikaner,9000000040
+41,Reliance Smart,Lucknow,9000000041
+42,Vishal Mega Mart,Lucknow,9000000042
+43,Easyday Club,Noida,9000000043
+44,Reliance Fresh,Ghaziabad,9000000044
+45,Needs Supermarket,Kanpur,9000000045
+46,More Supermarket,Varanasi,9000000046
+47,Daily Needs Store,Meerut,9000000047
+48,Apna Bazaar,Agra,9000000048
+49,V-Mart,Prayagraj,9000000049
+50,Reliance Smart,Bareilly,9000000050
+51,Reliance Smart,Shimla,9000000051
+52,Daily Needs Store,Shimla,9000000052
+53,More Supermarket,Manali,9000000053
+54,Easyday Club,Dharamshala,9000000054
+55,Needs Supermarket,Solan,9000000055
+56,Reliance Fresh,Kullu,9000000056
+57,Apna Bazaar,Mandi,9000000057
+58,Grocery World,Una,9000000058
+59,Daily Needs Store,Hamirpur,9000000059
+60,More Supermarket,Bilaspur,9000000060
+61,Reliance Smart,Dehradun,9000000061
+62,Easyday Club,Dehradun,9000000062
+63,Needs Supermarket,Haridwar,9000000063
+64,Daily Needs Store,Roorkee,9000000064
+65,Reliance Fresh,Haldwani,9000000065
+66,More Supermarket,Nainital,9000000066
+67,Apna Bazaar,Rudrapur,9000000067
+68,V-Mart,Kashipur,9000000068
+69,Grocery World,Pithoragarh,9000000069
+70,Daily Needs Store,Almora,9000000070
+71,Reliance Smart,Ahmedabad,9000000071
+72,DMart,Ahmedabad,9000000072
+73,Reliance Fresh,Surat,9000000073
+74,More Supermarket,Vadodara,9000000074
+75,Vishal Mega Mart,Rajkot,9000000075
+76,Easyday Club,Gandhinagar,9000000076
+77,Needs Supermarket,Bhavnagar,9000000077
+78,Apna Bazaar,Jamnagar,9000000078
+79,Daily Needs Store,Junagadh,9000000079
+80,Reliance Smart,Anand,9000000080
+81,Reliance Smart,Delhi NCR,9000000081
+82,Easyday Club,Delhi NCR,9000000082
+83,Needs Supermarket,Delhi NCR,9000000083
+84,More Supermarket,Delhi NCR,9000000084
+85,Reliance Fresh,Delhi NCR,9000000085
+86,Reliance Smart,Jaipur Urban,9000000086
+87,Easyday Club,Jaipur Urban,9000000087
+88,Needs Supermarket,Jaipur Urban,9000000088
+89,More Supermarket,Jaipur Urban,9000000089
+90,Reliance Fresh,Jaipur Urban,9000000090
+91,Reliance Smart,Lucknow Urban,9000000091
+92,Easyday Club,Lucknow Urban,9000000092
+93,Needs Supermarket,Lucknow Urban,9000000093
+94,More Supermarket,Lucknow Urban,9000000094
+95,Reliance Fresh,Lucknow Urban,9000000095
+96,Reliance Smart,Ludhiana Urban,9000000096
+97,Easyday Club,Ludhiana Urban,9000000097
+98,Needs Supermarket,Ludhiana Urban,9000000098
+99,More Supermarket,Ludhiana Urban,9000000099
+100,Reliance Fresh,Ludhiana Urban,9000000100
+101,Reliance Smart,Ahmedabad Urban,9000000101
+102,Easyday Club,Ahmedabad Urban,9000000102
+103,Needs Supermarket,Ahmedabad Urban,9000000103
+104,More Supermarket,Ahmedabad Urban,9000000104
+105,Reliance Fresh,Ahmedabad Urban,9000000105
+106,Reliance Smart,Shimla Urban,9000000106
+107,Easyday Club,Shimla Urban,9000000107
+108,Needs Supermarket,Shimla Urban,9000000108
+109,More Supermarket,Shimla Urban,9000000109
+110,Reliance Fresh,Shimla Urban,9000000110
+111,Reliance Smart,Dehradun Urban,9000000111
+112,Easyday Club,Dehradun Urban,9000000112
+113,Needs Supermarket,Dehradun Urban,9000000113
+114,More Supermarket,Dehradun Urban,9000000114
+115,Reliance Fresh,Dehradun Urban,9000000115

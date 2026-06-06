@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+:root {
+  --primary: #0f172a;
+  --secondary: #1e293b;
+  --accent: #10b981;
+  --accent-hover: #059669;
+  --bg-solid: #0b0f1a;
+  --glass: rgba(30, 41, 59, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+body {
+  background-color: var(--bg-solid);
+  color: #f1f5f9;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Date Input Fix */
+input[type="date"] {
+  color-scheme: dark;
+}
+
+/* Smooth Glassmorphism */
+.glass {
+  background: var(--glass);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid var(--glass-border);
+  border-radius: 1.25rem;
+  transition: all 0.3s ease;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.02);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 1.25rem;
+}
+
+/* Premium Buttons */
+.btn-primary {
+  @apply bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black py-2.5 px-6 rounded-xl transition-all duration-300 shadow-xl shadow-emerald-500/10 active:scale-95 uppercase tracking-widest text-[10px];
+}
+
+.btn-secondary {
+  @apply bg-slate-800/50 hover:bg-slate-700 text-white font-bold py-2.5 px-6 rounded-xl transition-all duration-300 active:scale-95 border border-white/5 uppercase tracking-widest text-[10px];
+}
+
+/* Inputs */
+.input-premium {
+  @apply bg-slate-900 border border-slate-800 rounded-xl px-4 py-3 text-slate-200 focus:outline-none focus:ring-2 focus:ring-emerald-500/30 focus:border-emerald-500/50 transition-all placeholder:text-slate-600 text-sm;
+}
+
+/* Transitions */
+.fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #334155; border-radius: 10px; }

@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.keys
+.env.vault
+dist/
+build/
+.DS_Store
+*.log
+venv/
+.venv/
+__pycache__/
+*.pyc
+node_modules/

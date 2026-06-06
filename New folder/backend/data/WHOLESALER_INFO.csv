@@ -1,0 +1,123 @@
+wholesaler_id,wholesaler_name,location,contact_no
+1,"MOTHER'S PURE MUSTARD OIL",Delhi,8950294578
+2,"Jai Mata Trading Company",Haldwani,6167557318
+3,"Shree Krishna Exports",Nagpur,6739782424
+4,"Ramesh Gupta & Co",Jodhpur,6773288799
+5,"Abhidnya Agro Industries",Taraori,8988996658
+6,"M.S Maa Ambe Enterprises",Sikar,7582593386
+7,"Maa Vaishno Traders",Udaipur,7937365550
+8,"Hanuman Treders",Udaipur,7349553752
+9,"Rajshri Agro Techno Foods",Patna,6231670868
+10,"Sewa Enterprises",Jaipur,9239954607
+11,"141 Silky RICE Luxmi Industries",Noida,7341148200
+12,"99 Market Hisar",Ajmer,7985507252
+13,"Mahaluxmi Seeds & Rice",Indore,8305768057
+14,"Shri Sai Santosh Consultants",Patna,9981498353
+15,"Suresh General Store",Ghumarwin,6847639666
+16,"S L Enterprises",Noida,9485798876
+17,"Kesho Ram Manohar Lal",Bhopal,7660129091
+18,"Grocery Bazar",Ahmedabad,6272018683
+19,"Deshi Adda",Bilaspur,8168494619
+20,"Aayesun Associates",Ajmer,8912384327
+21,"Puri Trading Co.",Vadodara,7718189742
+22,"Arun Trading Company",Hisar,8594235141
+23,"Sonu Grocery Store",Rudrapur,7782337979
+24,"Modgil Enterprises",Haldwani,6262919005
+25,"Pawan General Merchants",Nagpur,6706668921
+26,"Gupta Vastu Bhandar",Patna,7869733248
+27,"Sardari Lal Raman Kumar Wholesale Karyana",Amb,9714346242
+28,"Tri Murti Trading Company Pvt Ltd",Taraori,7570829841
+29,"Pandit Dhoop Factory",Jodhpur,6485666326
+30,"Kanshi Ram General & Karyana Store",Bathinda,6474481828
+31,"Drsk & Co",Jodhpur,6285618710
+32,"Sk Trading",Vadodara,7760504151
+33,"Nathu Ram Jnaki Das",Indore,9520301014
+34,"Goldy Karyana Store",Bilaspur,8161041296
+35,"Hadimba Enterprises",Jodhpur,6368483712
+36,"Anmol Trading Company",Ghumarwin,6674647349
+37,"Chandel Flour Mill",Rajkot,8276280495
+38,"Devi Enterprises",Hisar,7656650418
+39,"Amarnath And Company",Noida,6365449011
+40,"Dev Raj Suresh Kumar",Noida,8552551896
+41,"Shiv Kumar and Sons",Patna,6351897423
+42,"Diloo Ram Co",Varanasi,8134011765
+43,"Jain Store",Amb,8359067698
+44,"Amar Chand Sushil Kumar",Sikar,8311743335
+45,"Sood Karyana Store",Nagpur,7791572338
+46,"Rationwala- Retail And Wholesale",Patna,7938862822
+47,"Lakhdatar Suppliers",Jalandhar,6853367833
+48,"Vinayak Trading Company",Panchkula,8512534676
+49,"Bisu Krashi Farm",Amb,7224589383
+50,"Janki Lal",Panchkula,9138001686
+51,"Baijnath Vinod Kumar",Jalandhar,8805816792
+52,"Mangilal Sitaram",Hisar,7273436789
+53,"Jagannath Rai Mohanlal Jain",Panchkula,7193726981
+54,"Naveen Trading Company",Delhi,7664923190
+55,"Mahendra Sales Whole sale Business of Grain Foods",Indore,6907070324
+56,"Kaluram Motilal Pansari",Rudrapur,8194156103
+57,"Metro Wholesale",Taraori,8231608191
+58,"Khandelwal Kirana Store Gordhanpura",Rajkot,6376889016
+59,"Prahalad Rai & Company",Hisar,9987983470
+60,"Gupta Food Wholesale",Una,9415962573
+61,"Jain Agro Traders",Ghumarwin,9629141934
+62,"Yadav Food Wholesale",Vadodara,9430705678
+63,"Patel Kirana Store",Vadodara,8113531682
+64,"Mittal Grain Suppliers",Chhindwara,7874276455
+65,"Sharma Kirana Store",Jodhpur,6901699727
+66,"Jain Food Wholesale",Chhindwara,6984629961
+67,"Patel Food Wholesale",Chhindwara,7177564169
+68,"Gupta Agro Traders",Hisar,6388465045
+69,"Agarwal Food Wholesale",Rudrapur,6849345580
+70,"Singh Food Wholesale",Allahabad,9729533579
+71,"Verma Kirana Store",Karnal,7717521484
+72,"Verma Agro Mart",Bhopal,6340568863
+73,"Mittal Agro Mart",Jodhpur,7556802586
+74,"Yadav Kirana Store",Taraori,6577992405
+75,"Mittal Food Wholesale",Ahmedabad,9839054706
+76,"Bansal Kirana Store",Rajkot,7720638747
+77,"Bansal Food Wholesale",Allahabad,8168396236
+78,"Patel Grain Suppliers",Jalandhar,8667204972
+79,"Agarwal Agro Traders",Hisar,6572933610
+80,"Singh Kirana Store",Una,9399449457
+81,"Mittal Kirana Store",Bilaspur,6826337386
+82,"Yadav Grain Suppliers",Amb,6783467240
+83,"Singh Grain Suppliers",Chhindwara,6834117558
+84,"Gupta Agro Mart",Ahmedabad,8987214129
+85,"Jain Grain Suppliers",Jaipur,6937288151
+86,"Bansal Agro Mart",Udaipur,9775476647
+87,"Agarwal Agro Mart",Udaipur,8559129356
+88,"Singh Agro Traders",Una,7153377059
+89,"Patel Agro Mart",Delhi,9971578224
+90,"Jain Kirana Store",Nagpur,7215297039
+91,"Sharma Food Wholesale",Allahabad,9135672175
+92,"Jain Agro Mart",Udaipur,9848614792
+93,"Aman Enterprises",Delhi,8655487668
+94,"Amit Karyana Store",Ghumarwin,7456087589
+95,"Kaushal Traders",Ghumarwin,7719372216
+96,"Sharma Flour Mills",Delhi,9643018929
+97,"Verma Food Wholesale",Delhi,7279382154
+98,"Patel Agro Traders",Ghumarwin,8287404930
+99,"Verma Grain Suppliers",Amb,6812933328
+100,"Bansal Grain Suppliers",Bilaspur,8875507862
+101,"Bansal Agro Traders",Delhi,7867612294
+102,"Agarwal Grain Suppliers",Bilaspur,8489661978
+103,"Singh Agro Mart",Una,7365095143
+104,"Yadav Agro Mart",Amb,7921024738
+105,"Sharma Agro Traders",Ghumarwin,9543849506
+106,"Verma Agro Traders",Una,9419997660
+107,"Gupta Grain Suppliers",Bilaspur,7131593991
+108,"Sharma Grain Suppliers",Amb,7421229656
+109,"Agarwal Kirana Store",Bilaspur,7255412214
+110,"Sharma Agro Mart",Una,8535921681
+111,"Yadav Agro Traders",Una,9113826068
+112,"S K Marketing",Sikar,7370389300
+113,"Roshan Lal Madan Lal Traders",Delhi,9335707563
+114,"Agarwal Traders",Delhi,6118540597
+115,"Shyam Trading Company",Delhi,7117690220
+116,"Adinath Enterprises","Rajasthan Nursing Road",8560371929
+117,"Banshi Traders",Jaipur,7976599623
+118,"Ramnarayan Ramgopal Sharma","Rajasthan Nursing Road",6217168384
+119,"Shakambhari Traders",Sikar,8386879962
+120,"Jitendra Kirana Store",Jaipur,9949191789
+121,"Ram Bilas Ishwardas",Jaipur,7822119287
+122,"Gupta Kirana Store",Jaipur,6472143926
